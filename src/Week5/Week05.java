@@ -13,7 +13,7 @@ public class Week05
         System.out.println();
         System.out.println("  Week 5 Java Revision & Quiz ");
         System.out.println();
-        System.out.println(" by Nicholas Day and Derek Peacock");
+        System.out.println(" by Daniel Mahoney");
         System.out.println();
     }     
     
